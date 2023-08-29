@@ -1,0 +1,7 @@
+# 忽略npm第三方包、分发文件夹、密钥文件和日志文件的记录
+node_modules
+dist 
+.vscode
+*.pem
+*.cer
+*.log
